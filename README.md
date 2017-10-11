@@ -28,7 +28,7 @@ Visualize architecture
 <td align="center">
 Deploy using JSON copy
 <br><br>
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftanewill%2FAHOD-HPC%2Fmaster%2Fazuredeploy_ARMcopy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fanhvoms%2FAHOD-HPC%2Fmaster%2Fazuredeploy_ARMcopy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png" />
 </a>
 </td>
